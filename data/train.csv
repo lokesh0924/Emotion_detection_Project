@@ -1,0 +1,73 @@
+text,emotion
+"I am so happy today! This is the best day ever!",happy
+"Great news! I got the job I wanted.",happy
+"Finally finished the project. So relieved and happy!",happy
+"I feel really sad and lonely right now.",sad
+"Nothing seems to go right. I'm so down.",sad
+"Lost someone very close. Heartbroken.",sad
+"This makes me so angry! I can't believe it.",anger
+"I'm furious about how they treated me.",anger
+"Stop doing that! You're driving me crazy!",anger
+"I'm scared of what might happen.",fear
+"Something bad is going to happen. I feel it.",fear
+"I'm really worried and afraid.",fear
+"Oh my god! I didn't see that coming!",surprise
+"Wow! That was unexpected!",surprise
+"I'm so shocked by this news.",surprise
+"The meeting is at 3 PM in room 5.",neutral
+"Please send the report by Friday.",neutral
+"The weather is partly cloudy today.",neutral
+"Had an amazing time at the party!",happy
+"Best birthday ever! Thank you everyone!",happy
+"Success! We did it!",happy
+"I feel miserable and don't want to do anything.",sad
+"Everything is falling apart.",sad
+"Just want to be alone and cry.",sad
+"How dare you say that to me!",anger
+"This is unacceptable. I'm very angry.",anger
+"I could scream right now I'm so mad.",anger
+"I have a bad feeling about this.",fear
+"Terrified of the outcome.",fear
+"Anxious and scared about the future.",fear
+"Really? I had no idea!",surprise
+"That's incredible! I'm stunned.",surprise
+"Did not expect that at all.",surprise
+"The document has been updated.",neutral
+"Please confirm receipt of the email.",neutral
+"Temperature will range between 20 and 25.",neutral
+"So grateful for everything in my life.",happy
+"Feeling blessed and joyful.",happy
+"Could not be happier with the result.",happy
+"Feeling blue today.",sad
+"Nothing cheers me up.",sad
+"Going through a rough patch.",sad
+"I'm so frustrated and angry!",anger
+"This is ridiculous! I'm livid.",anger
+"Outraged by this behavior.",anger
+"Something doesn't feel right. I'm nervous.",fear
+"I'm afraid we might fail.",fear
+"Scared to take the next step.",fear
+"No way! That's unbelievable!",surprise
+"I'm speechless! So surprised.",surprise
+"Never saw that coming in a million years.",surprise
+"Reply with your availability.",neutral
+"The system will be under maintenance tonight.",neutral
+"Reference number is 12345.",neutral
+"Life is beautiful and I love it!",happy
+"Such a wonderful day!",happy
+"Over the moon with happiness!",happy
+"Feeling empty and sad inside.",sad
+"Can't stop crying.",sad
+"World feels dark and hopeless.",sad
+"You have no right! I'm boiling with anger.",anger
+"Absolutely furious!",anger
+"This injustice makes my blood boil.",anger
+"I'm terrified of what comes next.",fear
+"Fear is overwhelming me.",fear
+"Worried sick about it.",fear
+"What a pleasant surprise!",surprise
+"I'm amazed and surprised!",surprise
+"Totally caught off guard!",surprise
+"Status: completed.",neutral
+"Attached is the file you requested.",neutral
+"Next session is scheduled for Monday.",neutral
